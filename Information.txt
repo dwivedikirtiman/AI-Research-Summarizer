@@ -1,0 +1,22 @@
+Ok, so before clonning or downloading the project some information you should need to know..
+
+> The folder named "research-assistant" is basicaly a spring boot project which are initialized from spring 
+  boot initilizer and being created as a backend application where i've consumed the GEMINI API and created 
+  multiple java files for working of this backend application.
+
+> The second folder name "Research-Assistant-EXT" is basicaly a extension which is particularly created for
+  google chrome and this folder contains four necessary files in which manifest.json is a most important file.
+
+> For creating the backend app you need to have open the "research-assistant" folder in IntelliJ IDE or any of 
+  your prefer IDE and build the maven app with all the required dependencies also for testing the API Key of GEMINI
+  you can use POSTMAN.
+
+> For the extension open the second folder i.e "Research-Assistant-EXT" in VS code or any prefered IDE and visit the 
+  chrome extension url (chrome://extensions/) and on the "Developer Mode" and click on "Load Unpacked" and select the 
+  directory where this "Research-Assistant-EXT" is stored or you've saved.
+
+
+> I've included the whole project_structure also in txt file named as "project_structure.txt".
+  Not the info you should know but If you also want to include this kind of project_structure in txt format in vs code
+  then simple open your project folder and open terminal in vs code and run the command " tree /f /a > project_structure.txt "
+  This command will create a project_structure in txt file and it is for any kind of project. 
