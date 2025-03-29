@@ -79,7 +79,7 @@ After adding your API_KEY click on "Apply" and then click on "OK" Button.
   
 4. Run the `ResearchAssistantApplication` class to start the backend server.
 
-5. Now, that the server is running fine and all the file is now set-up properly, you need to test your API in POSTMAN that whether it is giving the proper response by hitting the provided URL/URI, for that open your POSTMAN Application and create a new collection with any prefered name and then import the CURL which you've copied from GEMINI_API_KEY Page and also create one API_KEY(put it very private to you ) and then paste the URL in the import section and the page will look something like this:
+5. Now, that the server is running fine and all the file is now set-up properly, you need to test your API in POSTMAN that whether it is giving the proper response by hitting the provided URL/URI, for that open your POSTMAN Application and create a new collection with any prefered name and then import the CURL which you've copied from GEMINI_API_KEY Page and also create one API_KEY(put it very private to you ) and then paste the URL in the import section and the page will look something like this: 
 
 ![image](https://github.com/user-attachments/assets/0915ec9c-8dcc-4e0d-bed2-d3d6c0dd5967)
 
@@ -106,6 +106,10 @@ And finally if your backend application is running i.e. server is starting witho
 4. Use the provided textarea to save key points.
 
 ## Screenshots/Snapshots of the final output 
+
+- Go to ```chrome://extensions/``` and the newly created extension will be looked as follows:
+
+   ![Screenshot 2025-03-29 015355](https://github.com/user-attachments/assets/2958acd9-d485-40f9-98c9-e99f8e608b87)
 
 - Visit any document or any web page and select the texts which you want to summarize and the extension will summarize that for you like :
 
